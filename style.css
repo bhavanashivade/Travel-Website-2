@@ -281,6 +281,8 @@ header .section_container {
     margin-right: 4%;
 
     margin-top: 4%;
+
+
 }
 
 
@@ -339,7 +341,7 @@ footer h4 {
     font-size: 2.0rem;
     font-weight: 500;
 
-    padding-top: 5%;
+    /* padding-top: 5%; */
 
     padding-bottom: 10px;
 
